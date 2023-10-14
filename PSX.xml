@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Catalog Name="GermanUI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Mods>
+
+## Enhanced Stock UI
+    <Mod>
+      <ID>9b99d999-9999-99df-9ddb-d9a9e999f999</ID>  
+      <Author>Nuada</Author>
+      <Link>http://forums.qhimm.com/index.php</Link>
+      <DonationLink>https://linktr.ee/ffviinuada</DonationLink>
+      <LatestVersion>
+      <Link>iros://Url/http$178.254.28.83/Ultimative_PSX_Version.zip</Link>
+        <Version>9.001</Version>
+        <ReleaseDate>2023-10-14</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>http://178.254.28.83//ESUI_NEW.png</PreviewImage>
+         <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>4572222</DownloadSize>
+      </LatestVersion>
+      <Name>DL_Ultimative_PSX_Version</Name>
+      <Category>User Interface</Category>
+      <Description>Ultimative_PSX Version</Description>
+      <Tags></Tags>
+    </Mod>
+</Mods>
+</Catalog>
